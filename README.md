@@ -1,5 +1,5 @@
 <h1 align="center">DEV RESOURCES</h1>
-Go pro with your command lines.
+Work with an upperhand with more than the needed tools at your  doorstep.
 
 ## TABLE OF CONTENTS
 
@@ -33,4 +33,5 @@ Go pro with your command lines.
 - [Image Compression](#)
 - [Chrome Extensions](#)
 - [Public API's](#)
+- [Command line](#)
 - [Others](#)
