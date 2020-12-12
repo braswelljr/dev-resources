@@ -53,4 +53,8 @@ Work with an upperhand with more than the needed tools at your  doorstep.
 |[Color Hunt](https://colors.muz.li/)                                             | Create Beautiful Color Schemes that works                |
 |[Canva Colors](https://www.canva.com/colors/color-palettes/)                     | Explore your world of colors                             |
 |[Digital Synopsis](https://digitalsynopsis.com/design/beautiful-color-palettes-combinations-schemes/)  | 36 Beautiful Color Palettes For Your Next Design Project       |
-|[Color Palette](https://colorpalettes.net/)                                      | Color palette ideas         | 
+|[Color Palette](https://colorpalettes.net/)                                      | Color palette ideas         |
+|[Adobe Color](https://color.adobe.com/create/color-wheel)                        | Color wheel to create and selects from        |
+|[Color Hex](https://www.color-hex.com/color-palettes/)                           | Color Palettes Color Schemes |
+|[Color Mind](http://colormind.io/)                                  | The AI powered color generator |
+|[Flat UI Colors](https://flatuicolors.com/)                       | 280 handpicked colors |
