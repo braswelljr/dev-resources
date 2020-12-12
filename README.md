@@ -51,5 +51,6 @@ Work with an upperhand with more than the needed tools at your  doorstep.
 |[Coolors](https://coolors.co/)                                                   | Create and select colors from a palette                  |
 |[Color Hunt](https://colorhunt.co/)                                              | Color palette for Designers and Artists                  |
 |[Color Hunt](https://colors.muz.li/)                                             | Create Beautiful Color Schemes that works                |
-|[Canva Colors](https://www.canva.com/colors/color-palettes/)                     | Explore oyur world of colors                             |
-|[Digital Synopsis](https://digitalsynopsis.com/design/beautiful-color-palettes-combinations-schemes/)  | Explore oyur world of colors       |
+|[Canva Colors](https://www.canva.com/colors/color-palettes/)                     | Explore your world of colors                             |
+|[Digital Synopsis](https://digitalsynopsis.com/design/beautiful-color-palettes-combinations-schemes/)  | 36 Beautiful Color Palettes For Your Next Design Project       |
+|[Color Palette](https://colorpalettes.net/)                                      | Color palette ideas         | 
