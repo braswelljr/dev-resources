@@ -46,10 +46,10 @@ Work with an upperhand with more than the needed tools at your  doorstep.
 ### COLORS
 >Awesome colors to select and build from
 
-|WEBSITE                               | DESCRIPTION                                              |
-|--------------------------------------|----------------------------------------------------------|
-|[Coolors](https://coolors.co/)        | Create and select colors from a palette                  |
-|--------------------------------------|----------------------------------------------------------|
-|[Color Hunt](https://colorhunt.co/)   | Color palette for Designers and Artists                  |
-|--------------------------------------|----------------------------------------------------------|
-|[Color Hunt](https://colors.muz.li/)  | Create Beautiful Color Schemes that works                |
+|WEBSITE                                                                          | DESCRIPTION                                              |
+|---------------------------------------------------------------------------------|----------------------------------------------------------|
+|[Coolors](https://coolors.co/)                                                   | Create and select colors from a palette                  |
+|[Color Hunt](https://colorhunt.co/)                                              | Color palette for Designers and Artists                  |
+|[Color Hunt](https://colors.muz.li/)                                             | Create Beautiful Color Schemes that works                |
+|[Canva Colors](https://www.canva.com/colors/color-palettes/)                     | Explore oyur world of colors                             |
+|[Digital Synopsis](https://digitalsynopsis.com/design/beautiful-color-palettes-combinations-schemes/)  | Explore oyur world of colors       |
