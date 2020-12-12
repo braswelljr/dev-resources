@@ -38,12 +38,14 @@ Work with an upperhand with more than the needed tools at your  doorstep.
 
 ### FONTS
 >Awesome fonts for your websites and apps
+
 |WEBSITE         | DESCRIPTION|
 |----------------|--------------------------------------------------------------------------------|
 |[Google Fonts](https://fonts.google.com/)| More than need Lisensed free fonts|
 
 ### COLORS
->Awesome colors to select and build from.
+>Awesome colors to select and build from
+
 |WEBSITE         | DESCRIPTION |
 |----------------|--------------------------------------------------------------------------------|
 |[Coolers](https://coolors.co/)| Create and select colors from a palette  |
