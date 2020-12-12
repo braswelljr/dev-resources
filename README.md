@@ -39,13 +39,17 @@ Work with an upperhand with more than the needed tools at your  doorstep.
 ### FONTS
 >Awesome fonts for your websites and apps
 
-|WEBSITE         | DESCRIPTION|
-|----------------|--------------------------------------------------------------------------------|
-|[Google Fonts](https://fonts.google.com/)| More than need Lisensed free fonts|
+|WEBSITE                                  | DESCRIPTION|
+|-----------------------------------------|-------------------------------------------------------|
+|[Google Fonts](https://fonts.google.com/)| More than need Lisensed free fonts                    |
 
 ### COLORS
 >Awesome colors to select and build from
 
-|WEBSITE         | DESCRIPTION |
-|----------------|--------------------------------------------------------------------------------|
-|[Coolers](https://coolors.co/)| Create and select colors from a palette  |
+|WEBSITE                               | DESCRIPTION                                              |
+|--------------------------------------|----------------------------------------------------------|
+|[Coolors](https://coolors.co/)        | Create and select colors from a palette                  |
+|--------------------------------------|----------------------------------------------------------|
+|[Color Hunt](https://colorhunt.co/)   | Color palette for Designers and Artists                  |
+|--------------------------------------|----------------------------------------------------------|
+|[Color Hunt](https://colors.muz.li/)  | Create Beautiful Color Schemes that works                |
