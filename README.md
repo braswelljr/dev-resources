@@ -68,13 +68,38 @@ Work with an upperhand with more than the needed tools at your  doorstep.
 ##### UNIX/LINUX 
 
 ###### *File System Commands*
-|COMMAND                                  | DESCRIPTION|
-|-----------------------------------------|-------------------------------------------------------|
-|touch `filename`                         | Create or Update file.                                |
-|ls                                       | Create or Update file.                                |
-|ls -al                                   | Formatted listing with hidden files                   |
-|cd `directory name`                      | Change directory to folder name                    |
-|cd                                       | Change from current directory to home                  |
-|pwd                                      | Show Current directory                                |
-|mkdir `directory name`                   | create a directory dir                   |
-|rm `file`                                | Delete file                   |
+
+| COMMAND                                  | DESCRIPTION                                           |
+|------------------------------------------|-------------------------------------------------------|
+| touch `file`                             | Create or Update file                                 |
+| ls                                       | Create or Update file                                 |
+| ls -al                                   | Formatted listing with hidden files                   |
+| cd `dir`                                 | Change directory to folder name                       |
+| cd                                       | Change from current directory to home                 |
+| pwd                                      | Show Current directory                                |
+| mkdir `dir`                              | create a directory                                    |
+| rm `file`                                | Delete file                                           |
+| rm -r `dir`                              | Delete directory                                      |
+| rm -f `filename`                         | Force remove file                                     |
+| rm -rf `dir`                             | Force remove directory                                |
+| cp `file1` `file2`                       | Copy `file1` to `file2`                               |
+| cp -r `dir1` `dir2`                      | Copy `dir1` to `dir2`, create `dir2` if it doesn't exist |
+| mv `file1` `file2`                       | Rename or move `file1` to `file2`, if `file2` is an existing directory, moves `file1` into directory `file2` |
+| ln -s `file` `link`                      | Create symbolic link `link` to `file` |
+| cat > `file`                             | Places standard input into `file` |
+| more `file`                              | Output the contents of `file` |
+| head `file`                              | Output the first 10 lines of `file` |
+| tail `file`                              | Output the last 10 lines of file |
+| tail -f `file`                           | Output the contents of file as it grows, starting with the last 10 lines |
+
+###### *Process Management*
+
+| COMMAND                                  | DESCRIPTION                                           |
+|------------------------------------------|-------------------------------------------------------|
+| ps                                       | Display your currently active processes               |
+| ps                                       | Display all running processes                         |
+| kill `pid`                               | Kill process id `pid`                                 |
+| killall `proc`                           | Kill all processes named `proc`                       |
+| bg                                       | lists stopped or background jobs; resume a stopped job in the background |
+| fg                                       | Brings the most recent job to foreground              |
+| fg n                                     | Brings job n to the foreground                        |
