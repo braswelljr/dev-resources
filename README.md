@@ -33,7 +33,7 @@ Work with an upperhand with more than the needed tools at your  doorstep.
 - [Image Compression](#)
 - [Chrome Extensions](#)
 - [Public API's](#)
-- [Command line](#)
+- [Command line](#command-line-hack)
 - [Others](#)
 
 ### FONTS
@@ -58,3 +58,23 @@ Work with an upperhand with more than the needed tools at your  doorstep.
 |[Color Hex](https://www.color-hex.com/color-palettes/)                           | Color Palettes Color Schemes |
 |[Color Mind](http://colormind.io/)                                  | The AI powered color generator |
 |[Flat UI Colors](https://flatuicolors.com/)                       | 280 handpicked colors |
+
+### COMMAND LINE HACK
+>Basic commands to help you keep up and work faster.💻
+#### OPERATING SYSTEM
+- Unix/Linux
+- Windows
+
+##### UNIX/LINUX 
+
+###### *File System Commands*
+|COMMAND                                  | DESCRIPTION|
+|-----------------------------------------|-------------------------------------------------------|
+|touch `filename`                         | Create or Update file.                                |
+|ls                                       | Create or Update file.                                |
+|ls -al                                   | Formatted listing with hidden files                   |
+|cd `directory name`                      | Change directory to folder name                    |
+|cd                                       | Change from current directory to home                  |
+|pwd                                      | Show Current directory                                |
+|mkdir `directory name`                   | create a directory dir                   |
+|rm `file`                                | Delete file                   |
