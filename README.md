@@ -102,4 +102,4 @@ Work with an upperhand with more than the needed tools at your  doorstep.
 | killall `proc`                           | Kill all processes named `proc`                       |
 | bg                                       | lists stopped or background jobs; resume a stopped job in the background |
 | fg                                       | Brings the most recent job to foreground              |
-| fg n                                     | Brings job n to the foreground                        |
+| fg `n`                                     | Brings job `n` to the foreground                        |
