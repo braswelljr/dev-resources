@@ -1,4 +1,4 @@
-<h1 align="center">DEV RESOURCES</h1>
+<h1 align="center">DEV RESOURCES ⚡️</h1>
 Work with an upperhand with more than the needed tools at your  doorstep.
 
 ## TABLE OF CONTENTS
