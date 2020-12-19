@@ -151,15 +151,17 @@ Install from source:
 
 ###### *FILE PERMISIONS*
 
-chmod octal file – change the permissions of file
+_chmod octal file_ – change the permissions of file
 to octal, which can be found separately for user,
 group, and world by adding:
-● 4 – read (r)
-● 2 – write (w)
-● 1 – execute (x)
+
+- 4 – read (r)
+- 2 – write (w)
+- 1 – execute (x)
 
 ```example
-`chmod 777` – read, write, execute for all
-`chmod 755` – rwx for owner, rx for group and world
-For more options, see `man chmod`.
+- `chmod 777` – read, write, execute for all
+- `chmod 755` – rwx for owner, rx for group and world
 ```
+
+For more options, see `man chmod`.
