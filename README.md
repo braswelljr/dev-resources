@@ -151,7 +151,7 @@ Install from source:
 
 ###### *FILE PERMISIONS*
 
-_chmod octal file_ – change the permissions of file
+_chmod octal `file`_ – change the permissions of `file`
 to octal, which can be found separately for user,
 group, and world by adding:
 
