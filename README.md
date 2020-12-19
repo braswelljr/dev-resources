@@ -37,35 +37,42 @@ Work with an upperhand with more than the needed tools at your  doorstep.
 - [Others](#)
 
 ### FONTS
+
 >Awesome fonts for your websites and apps
 
 |WEBSITE                                  | DESCRIPTION|
 |-----------------------------------------|-------------------------------------------------------|
-|[Google Fonts](https://fonts.google.com/)| More than need Lisensed free fonts                    |
+| [Google Fonts](https://fonts.google.com/)| More than need Lisensed free fonts                    |
 
 ### COLORS
+
 >Awesome colors to select and build from
 
 |WEBSITE                                                                          | DESCRIPTION                                              |
 |---------------------------------------------------------------------------------|----------------------------------------------------------|
-|[Coolors](https://coolors.co/)                                                   | Create and select colors from a palette                  |
-|[Color Hunt](https://colorhunt.co/)                                              | Color palette for Designers and Artists                  |
-|[Color Hunt](https://colors.muz.li/)                                             | Create Beautiful Color Schemes that works                |
-|[Canva Colors](https://www.canva.com/colors/color-palettes/)                     | Explore your world of colors                             |
-|[Digital Synopsis](https://digitalsynopsis.com/design/beautiful-color-palettes-combinations-schemes/)  | 36 Beautiful Color Palettes For Your Next Design Project       |
-|[Color Palette](https://colorpalettes.net/)                                      | Color palette ideas         |
-|[Adobe Color](https://color.adobe.com/create/color-wheel)                        | Color wheel to create and selects from        |
-|[Color Hex](https://www.color-hex.com/color-palettes/)                           | Color Palettes Color Schemes |
-|[Color Mind](http://colormind.io/)                                  | The AI powered color generator |
-|[Flat UI Colors](https://flatuicolors.com/)                       | 280 handpicked colors |
+| [Coolors](https://coolors.co/)                                                   | Create and select colors from a palette                  |
+| [Color Hunt](https://colorhunt.co/)                                              | Color palette for Designers and Artists                  |
+| [Colors.muz.li](https://colors.muz.li/)                                             | Create Beautiful Color Schemes that works                |
+| [Canva Colors](https://www.canva.com/colors/color-palettes/)                     | Explore your world of colors                             |
+| [Digital Synopsis](https://digitalsynopsis.com/design/beautiful-color-palettes-combinations-schemes/)  | 36 Beautiful Color Palettes For Your Next Design Project       |
+| [Color Palette](https://colorpalettes.net/)                                      | Color palette ideas         |
+| [Adobe Color](https://color.adobe.com/create/color-wheel)                        | Color wheel to create and selects from        |
+| [Color Hex](https://www.color-hex.com/color-palettes/)                           | Color Palettes Color Schemes |
+| [Color Mind](http://colormind.io/)                                  | The AI powered color generator |
+| [Flat UI Colors](https://flatuicolors.com/)                       | 280 handpicked colors |
+| [Palettable](https://www.palettable.io/)                       | Generate beautiful color palettes using the knowledge of millions of designers |
+| [lol colors](https://www.webdesignrankings.com/resources/lolcolors/) | Curated color palette inspiration.|
 
 ### COMMAND LINE HACK
+
 >Basic commands to help you keep up and work faster.💻
+
 #### OPERATING SYSTEM
+
 - Unix/Linux
 - Windows
 
-##### UNIX/LINUX 
+##### UNIX/LINUX
 
 ###### *File System Commands*
 
@@ -102,4 +109,57 @@ Work with an upperhand with more than the needed tools at your  doorstep.
 | killall `proc`                           | Kill all processes named `proc`                       |
 | bg                                       | lists stopped or background jobs; resume a stopped job in the background |
 | fg                                       | Brings the most recent job to foreground              |
-| fg `n`                                     | Brings job `n` to the foreground                        |
+| fg `n`                                   | Brings job `n` to the foreground                      |
+
+###### *SSH*
+
+| COMMAND                                  | DESCRIPTION                                           |
+|------------------------------------------|-------------------------------------------------------|
+| ssh `user`@`host`                        | connect to `host` as `user`                          |
+| ssh -p `port` `user`@`host`              | connect to `host` on `port` as `user`                |
+| ssh-copy-id `user`@`host`                | add your key to `host` for `user` to enable a keyed or passwordless login |
+
+###### *NETWORKING*
+
+| COMMAND                                  | DESCRIPTION                                           |
+|------------------------------------------|-------------------------------------------------------|
+| ping `host`                              | ping `host` and output results                        |
+| whois `domain`                           | get whois information for `domain`                    |
+| dig `domain`                             | get DNS information for `domain`                      |
+| dig -x `host`                            | reverse lookup `host`                                 |
+| wget `file`                              | download `file`                                       |
+| wget -c `file`                           | continue a stopped download                           |
+
+###### *SEARCHING*
+
+| COMMAND                                  | DESCRIPTION                                           |
+|------------------------------------------|-------------------------------------------------------|
+| grep `pattern` `files`                   | search for `pattern` in `files`                       |
+| grep -r `pattern` `dir`                  | search recursively for `pattern` in `dir`             |
+| command | grep `pattern`                 | search for pattern in the output of command           |
+| locate `file`                            | find all instances of `file`                          |
+
+###### *INSTALLATION*
+
+Install from source:
+
+- ./configure
+- make
+- make install
+- dpkg -i pkg.deb – install a package (Debian)
+- rpm -Uvh pkg.rpm – install a package (RPM)
+
+###### *FILE PERMISIONS*
+
+chmod octal file – change the permissions of file
+to octal, which can be found separately for user,
+group, and world by adding:
+● 4 – read (r)
+● 2 – write (w)
+● 1 – execute (x)
+
+```example
+`chmod 777` – read, write, execute for all
+`chmod 755` – rwx for owner, rx for group and world
+For more options, see `man chmod`.
+```
