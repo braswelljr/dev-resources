@@ -3,8 +3,6 @@ Work with an upperhand with more than the needed tools at your  doorstep.
 
 ## TABLE OF CONTENTS
 
-## Table of Contents
-
 - [CSS Animations](#)
 - [CSS Methodologies](#)
 - [CSS Frameworks](#css-frameworks)
