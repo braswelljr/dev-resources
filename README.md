@@ -44,7 +44,7 @@ Work with an upperhand with more than the needed tools at your  doorstep.
 
 | WEBSITE | DESCRIPTION |
 |---------|-------------|
-|[Tailwindcss]([#](https://tailwindcss.com/)) | A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup. |
+|[Tailwindcss](https://tailwindcss.com/) | A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup. |
 | [Basscss](https://basscss.com/) | Basscss provides lightweight, performant styles and flexible utilities to design for any device and to help reduce boilerplate in stylesheets |
 
 ### CHROME EXTENSIONS
