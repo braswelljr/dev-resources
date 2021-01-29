@@ -37,6 +37,7 @@ Work with an upperhand with more than the needed tools at your  doorstep.
 - [Others](#)
 
 ### CSS FRAMEWORKS
+
 >Awesome curated list of frameworks to choose and help style your webapps and webpages.
 
 ###### UTILITY FRAMEWORKS
@@ -54,6 +55,16 @@ Work with an upperhand with more than the needed tools at your  doorstep.
 | [Augury](#) | Extends the Developer Tools, adding tools for debugging and profiling Angular applications. |
 | [Blackfire Profiler](#) | Profile your applications from your browser. |
 | [Clockwork](#) | php dev tools integrated to your browser |
+| [Color Tab](#) | A Beautiful Color Palette With Every New Tab |
+| [Convertio](#) | Convert files online from one format into another. More than 2500 different conversions supported |
+| [JSON Formatter](#) | Makes json easy to read |
+| [Laravel TestTools](#) | Chrome extension to generate Laravel integration tests while using your app. |
+| [React Developer Tools](#) | Adds React debugging tools to the Chrome Developer Tools |
+| [Redux DevTools](#) | Redux DevTools for debugging application's state changes. |
+| [Vue Component Finder](#) | Tool for locate Vue component code. |
+| [Vue Performance Devtool](#) | A devtool extension for inspecting the performance of Vue components. |
+| [Vue.js devtools](#) | Chrome and Firefox DevTools extension for debugging Vue.js applications. |
+| [VueX](#) | VueX helps in controlling states universal states in your vue app. |
 
 ### COLORS
 
