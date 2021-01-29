@@ -5,22 +5,25 @@ Work with an upperhand with more than the needed tools at your  doorstep.
 
 ## Table of Contents
 
-- [UI Graphics](#)
-- [Fonts](#fonts)
+- [CSS Animations](#)
+- [CSS Methodologies](#)
+- [CSS Frameworks](#css-frameworks)
+- [Chrome Extensions](#chrome-extensions)
+- [Command line](#command-line-hack)
 - [Colors](#colors)
-- [Icons](#)
+- [Design Inspiration](#)
 - [Favicons](#)
+- [Fonts](#fonts)
+- [Icons](#)
 - [Icon Fonts](#)
 - [Photos](#)
 - [Videos](#)
-- [Music & Sound Effects](#)
 - [Vectors & Clipart](#)
+- [Music & Sound Effects](#)
+- [UI Graphics](#)
 - [Product & Image Mockups](#)
 - [HTML & CSS Templates](#)
-- [CSS Frameworks](#)
-- [CSS Methodologies](#)
-- [CSS Animations](#)
-- [Javascript Animations](#)
+- [Javascript Animations Libraries](#)
 - [UI Components & Kits](#)
 - [React UI Libraries](#)
 - [Vue UI Libraries](#)
@@ -29,20 +32,28 @@ Work with an upperhand with more than the needed tools at your  doorstep.
 - [Design Systems & Style Guides](#)
 - [Online Design Tools](#)
 - [Downloadable Design Software](#)
-- [Design Inspiration](#)
 - [Image Compression](#)
-- [Chrome Extensions](#)
 - [Public API's](#)
-- [Command line](#command-line-hack)
 - [Others](#)
 
-### FONTS
+### CSS FRAMEWORKS
+>Awesome curated list of frameworks to choose and help style your webapps and webpages.
 
->Awesome fonts for your websites and apps
+###### UTILITY FRAMEWORKS
 
-|WEBSITE                                  | DESCRIPTION|
-|-----------------------------------------|-------------------------------------------------------|
-| [Google Fonts](https://fonts.google.com/)| More than need Lisensed free fonts                    |
+| WEBSITE | DESCRIPTION |
+|---------|-------------|
+|[Tailwindcss]([#](https://tailwindcss.com/)) | A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup. |
+| [Basscss](https://basscss.com/) | Basscss provides lightweight, performant styles and flexible utilities to design for any device and to help reduce boilerplate in stylesheets |
+
+### CHROME EXTENSIONS
+
+| EXTENSION | DESCRIPTION |
+|-----------|-------------|
+| [Apollo Client Developer Tools](#) | GraphQL debugging tools for Apollo Client in the Chrome developer console. |
+| [Augury](#) | Extends the Developer Tools, adding tools for debugging and profiling Angular applications. |
+| [Blackfire Profiler](#) | Profile your applications from your browser. |
+| [Clockwork](#) | php dev tools integrated to your browser |
 
 ### COLORS
 
@@ -165,3 +176,11 @@ group, and world by adding:
 ```
 
 For more options, see `man chmod`.
+
+### FONTS
+
+>Awesome fonts for your websites and apps
+
+|WEBSITE                                  | DESCRIPTION|
+|-----------------------------------------|-------------------------------------------------------|
+| [Google Fonts](https://fonts.google.com/)| More than need Lisensed free fonts                    |
