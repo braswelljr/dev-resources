@@ -192,6 +192,17 @@ For more options, see `man chmod`.
 
 >Awesome fonts for your websites and apps
 
-|WEBSITE                                  | DESCRIPTION|
-|-----------------------------------------|-------------------------------------------------------|
-| [Google Fonts](https://fonts.google.com/)| More than need Lisensed free fonts                    |
+|WEBSITE   | DESCRIPTION|
+|----------|------------|
+| [Google Fonts](https://fonts.google.com/) | More than need Lisensed free fonts |
+| [Font Squirrel](https://fontsquirel.com) | Free fonts that are ready for commercial use. |
+| [Dafont](https://www.dafont.com/) | Better repo for your system fonts. |
+| [Fontspace](https://www.fontspace.com) | Free downloads of legally licensed fonts that are perfect for your design projects. |
+| [Befonts](https://befonts.com) | Free Fonts for Designers. |
+| [FFonts](https://www.ffonts.net/) | Your Awesome free fonts. |
+| [Free Script Fonts](https://www.freescriptfonts.net/) | Free scripting font for all your projects. |
+| [FontsArena](https://fontsarena.com/) | Free scripting font for all your projects. |
+| [Pinspiry Fonts](https://pinspiry.com/category/free-resources/fonts/) | An extensive catalogue of serif, sans, slab, script and display fonts you can download free of charge |
+| [1001 Free Fonts](https://www.1001freefonts.com/) | more than 2300 pages filled with any type of font you can think of |
+| [Unblast](https://unblast.com/fonts/) |  mesmerizing selection of fonts |
+| [Abstract Fonts](http://www.abstractfonts.com/) | Grand source of great free typefaces. |
