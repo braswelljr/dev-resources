@@ -82,6 +82,7 @@ Work with an upperhand with more than the needed tools at your  doorstep.
 | [Flat UI Colors](https://flatuicolors.com/)                       | 280 handpicked colors |
 | [Palettable](https://www.palettable.io/)                       | Generate beautiful color palettes using the knowledge of millions of designers |
 | [lol colors](https://www.webdesignrankings.com/resources/lolcolors/) | Curated color palette inspiration.|
+| [Colored](https://colored.vercel.app)  | Chose your colors with saturation and lightness |
 
 ### COMMAND LINE HACK
 
